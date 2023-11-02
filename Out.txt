@@ -1,0 +1,3 @@
+Money Inserted. Please Select the product. Going into Select Item State.
+Item selected. Going into Dispense Item State
+Item dispensed. Returning to Idle State.
